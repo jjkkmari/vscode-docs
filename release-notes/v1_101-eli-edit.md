@@ -9,7 +9,7 @@
   height: 100px;
   width: 100%;
   display: flex;
-  align-items: center;
+  align-items: ceenter;
   justify-content: center;
   text-align: center;
   padding: 0 1rem;
